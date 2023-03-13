@@ -2,6 +2,9 @@ package model.entities;
 
 import java.io.Serializable;
 
+import gui.util.Utils;
+import javafx.fxml.FXML;
+
 public class Department implements Serializable {
 
 	private static final long serialVersionUID = 1L;
